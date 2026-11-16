@@ -80,9 +80,10 @@ encontró (espacios dobles junto a símbolos y antes de nombres insertados, desc
 habilidad deformadas en la pantalla de estado, raya demasiado corta) se corrigieron para la
 candidata publicada; de esas correcciones solo se ha visto en pantalla la de las descripciones.
 
-De las texturas redibujadas se han visto dentro del juego las órdenes «Usar» y «Tirar». Del
-resto (resumen «BEFORE STORY», títulos de capítulo, placas de zona, leyenda del mapa y
-minimapas) solo se ha comprobado que se leen correctamente de la imagen.
+De las texturas redibujadas se han visto dentro del juego, en la candidata publicada, las 15
+páginas del resumen «BEFORE STORY» y las órdenes «Usar» y «Tirar». Del resto (títulos de
+capítulo, placas de zona, leyenda del mapa y minimapas) solo se ha comprobado que se leen
+correctamente de la imagen.
 
 El parche se ha reaplicado al original y reproduce exactamente la candidata publicada.
 Las comprobaciones en emulador utilizan PPSSPP 1.20.4, compilación sin ventana, en Linux.
